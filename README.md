@@ -40,7 +40,8 @@ print(f'Predicted Output: {predicted_output}')
 
 ```
 ## Output:
-![Alt text](<Implemetion of Multivariate Linear Regression.png>)
+![Implemetion of Multivariate Linear Regression](https://github.com/ILAIYADEEPAN/Multivariate-Linear-Regression/assets/147473334/cfe1d2b7-74d3-4d8b-9077-6ef9bfae99f4)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
